@@ -1,3 +1,6 @@
+# DEPRECATION NOTICE
+This repo is now deprecated. All code is now available under github.com/tianocore/edk2-platforms and subsequent development will be done directly there.
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 This branch holds all platforms actively maintained against the
 [edk2](https://github.com/tianocore/edk2) master branch.
 
